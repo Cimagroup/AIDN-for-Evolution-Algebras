@@ -49,4 +49,4 @@ np.savetxt("structure_matrix_"+str(d)+".txt",A)
 print("Structure matrix:\n",A)
 loss_rel=M.predict(x_data)
 print("Relation loss:",loss_rel)
-np.savetxt("relation_values_"+str(d)+".txt",loss_rel)ç
+np.savetxt("relation_values_"+str(d)+".txt",loss_rel)
