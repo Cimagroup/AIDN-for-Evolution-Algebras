@@ -3,7 +3,7 @@ from auxiliary import *
 
 #print("Write desire dimension:\n")
 #d=int(input())
-for d in range(2,100,2):
+for d in range(2,10,2):
         print("----------------------------------")
         print("DIMENSION ",d)
         fs=tf.convert_to_tensor(np.identity(d), dtype='float32') #BASE FIJA
