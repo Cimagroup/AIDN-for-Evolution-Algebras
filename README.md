@@ -7,7 +7,7 @@ In this repository, we extend Algebraically informed deep nets for Evolution alg
 | Typo of Evolution Algebra | Folder |
 |:-------------------------:|:------:|
 |        Associative        |    [link](https://github.com/Cimagroup/AIDN-for-Evolution-Algebras/tree/main/Associative%20algebras)    |
-|             Derivation              |   [link](https://github.com/Cimagroup/AIDN-for-Evolution-Algebras/tree/main/Derivation%20operator)     |
+|             Derivation              |   [link](https://github.com/Cimagroup/AIDN-for-Evolution-Algebras/tree/main/Derivation)     |
 
 
 
