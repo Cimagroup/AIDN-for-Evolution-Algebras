@@ -20,7 +20,7 @@ for d in range(2,10,2):
                        for k in range(n)]
             return tf.reshape(tf.nest.flatten(r1_list),(l*(n-1),))
 
-        def r2(gs,x): # REVISAR 
+        def r2(gs,x):  
             l= len(gs)
             n= int(np.sqrt(l))
             gs = np.array(gs).reshape((n,n))
